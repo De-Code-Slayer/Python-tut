@@ -1,3 +1,8 @@
+# Fun Basic Intro to OOP By Japheth C
+# Copy and Edit this Code, make it better, get creative.
+#  for example add a name Instance add a helth method to check if he is alive etc
+#  then Tag me or send to me
+
 class Human:
   def __init__(self):
     self.head = "head"
@@ -85,7 +90,3 @@ print(Andrew.stool())
 print(Andrew.grow(10))
 
 print(Andrew.what_color_is_your_car())
-
-
-
-  
