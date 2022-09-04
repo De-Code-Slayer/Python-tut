@@ -1,0 +1,3 @@
+# binary search is done on a sorted list or sorted Index it involves spliting a list or tree into two from the middle depending on the location of the value given based on the sorted order
+# for example, in a sorted list from 0 to 100, seeking for the value 25. we split 100 into 2 and decide if we check the RHS or LHS based on where 25 will be.
+# in our case 25 will be on the left and we repeat the step again
